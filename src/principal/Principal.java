@@ -18,7 +18,7 @@ public class Principal {
 	     
 	     short num1;
 	     num1 = 45;
-	     System.out.println("*        short     *       -32768 a 32767                            *         "+ num1);
+	     System.out.println("*        short     *          -32768 a 32767                            *         "+ num1);
 	     
 	     byte num2;
 	     num2 = 10;
